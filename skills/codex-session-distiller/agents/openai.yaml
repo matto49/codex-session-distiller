@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Session Distiller"
+  short_description: "Distill, verify, and archive Codex session history"
+  default_prompt: "Use $codex-session-distiller to summarize my Codex history, verify the summaries, and archive eligible old tasks."
